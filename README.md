@@ -7,3 +7,7 @@ Usage:
 ```bash
 docker run -d -p 5432:5432 --name dbs1 socke77/postgresdb-president
 ```
+
+- Default username is `postgres`
+- Default password is `mypassword`
+- Default database is `postgres`

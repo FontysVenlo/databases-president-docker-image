@@ -5,5 +5,5 @@ This postgres image is already pre-filled for educational usage on Fontys Venlo 
 Usage:
 
 ```bash
-docker run -d -p 5432:5432 --name dbs1 database-presidents
+docker run -d -p 5432:5432 --name dbs1 socke77/postgresdb-president
 ```
